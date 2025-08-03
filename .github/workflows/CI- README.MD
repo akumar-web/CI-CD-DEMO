@@ -98,4 +98,4 @@ GITHUB_TOKEN	        GitHub Actions token (auto-injected)
 **** Note -: These secrets are created in github insdie repository settings under Secrets and Variables.
 
 Pipeline Link to verify CI working end to end till updating K8S Manifest in repostiory
-https://github.com/akumar-new/Ecommerce-DevOps-Pipeline/actions/runs/16695944663
+https://github.com/akumar-web/CI-CD-DEMO/actions/runs/16699870796
